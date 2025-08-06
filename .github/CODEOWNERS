@@ -1,4 +1,4 @@
-* @cli/code-reviewers
+.github/CODEOWNERS* @cli/code-reviewers
 
 pkg/cmd/codespace/ @cli/codespaces
 internal/codespaces/ @cli/codespaces
